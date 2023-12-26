@@ -1,0 +1,19 @@
+{
+  "name": "git_project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "gitCourse"
+  },
+  "keywords": [
+    "zehava",
+    "esther"
+  ],
+  "author": "zehava",
+  "license": "ISC"
+}
